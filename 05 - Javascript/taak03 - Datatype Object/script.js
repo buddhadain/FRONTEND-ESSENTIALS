@@ -4,4 +4,3 @@ let leeftijd = null
 let ikMagLegaalAlcoholKopen = null
 let ikBenStemGerechtig = null
 let ikMagBrommerRijden = null
-let SoftwareOntwikkeling = null
