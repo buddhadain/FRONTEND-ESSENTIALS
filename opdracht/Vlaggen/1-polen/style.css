@@ -4,18 +4,18 @@
 }
 
 #container{
-    width: 900px;
-    height: 600px;
-    background-color: blanchedalmond;
+    width: 800px;
+    height: 500px;
+    background-color: red;
     border: 1px solid black;
 }
 
 /* Hieronder kun je gaan editen */
 
 #bovenkant{
-    width: 0px;
-    height: 0px;
-    background-color: chocolate;
+    width: 800px;
+    height: 250px;
+    background-color: white;
 }
 
 #onderkant{
